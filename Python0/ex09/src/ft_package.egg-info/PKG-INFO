@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ft-package
+Version: 0.0.1
+Summary: A small example package
+Author-email: atok <atok@student.42kl.edu.my>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# 42KL Python Piscine Test Package
+
+This is a simple package excersise. 
+it contains 1 funtion that counts items in the list
+that matches your what you want to search
+1st parameter takes in a list and
+2nd parameter takes in a string
